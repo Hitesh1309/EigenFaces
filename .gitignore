@@ -2,4 +2,5 @@
 *.jpg
 *.jpeg
 *.gif
-./images/*
+./images
+./images_512_face
